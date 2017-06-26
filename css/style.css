@@ -1,5 +1,7 @@
 /* CSS Document */
 
-#contact{
+section#contact{
+	background-image: none;
 	background-color: #434242;
+	color: white;
 }
